@@ -1,0 +1,21 @@
+{
+  "ga_best_fitness": 0.4292654889027548,
+  "ga_metrics": {
+    "fitness": 0.4292654889027548,
+    "coverage": 0.9555555555555556,
+    "detection": 0.9555555555555556,
+    "energy": 422.8381364901392,
+    "energy_normalized": 0.6128088934639699,
+    "time": 358.5727158675355,
+    "time_normalized": 0.3984141287417061,
+    "hazard": 15.750524847119957,
+    "hazard_normalized": 0.08203398357874978,
+    "distance": 349.7355495639258,
+    "feasible": true,
+    "penalty": 0.0
+  },
+  "random_search_best_fitness": 0.3558506497324393,
+  "ga_evaluations": 2536,
+  "random_search_evaluations": 2536,
+  "note": "Treat results as simulation output, not proof of global optimality."
+}
